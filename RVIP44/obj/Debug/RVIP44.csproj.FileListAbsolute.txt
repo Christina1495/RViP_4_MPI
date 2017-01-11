@@ -1,0 +1,7 @@
+D:\RVIP44\RVIP44\bin\Debug\RVIP44.exe
+D:\RVIP44\RVIP44\bin\Debug\RVIP44.pdb
+D:\RVIP44\RVIP44\bin\Debug\MPI.dll
+D:\RVIP44\RVIP44\bin\Debug\MPI.xml
+D:\RVIP44\RVIP44\obj\Debug\RVIP44.csprojResolveAssemblyReference.cache
+D:\RVIP44\RVIP44\obj\Debug\RVIP44.exe
+D:\RVIP44\RVIP44\obj\Debug\RVIP44.pdb
